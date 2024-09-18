@@ -4976,7 +4976,7 @@
 			)
 		)
 	)
-	(global_label "PC7"
+	(global_label "PE1"
 		(shape input)
 		(at 81.915 114.3 180)
 		(fields_autoplaced yes)
@@ -4988,7 +4988,7 @@
 		)
 		(uuid "5c06de23-fac2-46c1-92d1-71a2b68d17ce")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 75.1803 114.3 0)
+			(at 75.3013 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5152,7 +5152,7 @@
 			)
 		)
 	)
-	(global_label "PC4"
+	(global_label "PE0"
 		(shape input)
 		(at 72.39 114.3 180)
 		(fields_autoplaced yes)
@@ -5164,7 +5164,7 @@
 		)
 		(uuid "7e542b86-455b-47ca-9b45-edb61c90abfd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 65.6553 114.3 0)
+			(at 65.7763 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5196,7 +5196,7 @@
 			)
 		)
 	)
-	(global_label "PC6"
+	(global_label "PE2"
 		(shape input)
 		(at 93.98 114.3 180)
 		(fields_autoplaced yes)
@@ -5208,7 +5208,7 @@
 		)
 		(uuid "813b2dc9-a091-4fb4-8cf0-7b9671d9b5b7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 87.2453 114.3 0)
+			(at 87.3663 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5416,7 +5416,7 @@
 			)
 		)
 	)
-	(global_label "PC5"
+	(global_label "PE3"
 		(shape input)
 		(at 104.14 114.3 180)
 		(fields_autoplaced yes)
@@ -5428,7 +5428,7 @@
 		)
 		(uuid "ae321157-8073-4c8f-885e-42ded6144841")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.4053 114.3 0)
+			(at 97.5263 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5460,7 +5460,7 @@
 			)
 		)
 	)
-	(global_label "PF4"
+	(global_label "PE4"
 		(shape input)
 		(at 115.57 114.3 180)
 		(fields_autoplaced yes)
@@ -5472,7 +5472,7 @@
 		)
 		(uuid "b45a9367-d3ec-4a75-900e-10e763fa565e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 109.0167 114.3 0)
+			(at 108.9563 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6458,7 +6458,7 @@
 		(fields_autoplaced yes)
 		(uuid "2fdb1009-ec9e-4acb-b338-1504ad298543")
 		(property "Reference" "SW101"
-			(at 74.93 119.38 90)
+			(at 74.93 119.3799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6466,8 +6466,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "UP"
-			(at 74.93 121.92 90)
+		(property "Value" "MODE"
+			(at 74.93 121.9199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7265,7 +7265,7 @@
 		(fields_autoplaced yes)
 		(uuid "765ba594-9a0e-47d4-8151-41f1527fcfc2")
 		(property "Reference" "SW102"
-			(at 85.09 119.38 90)
+			(at 85.09 119.3799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7273,8 +7273,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DOWN"
-			(at 85.09 121.92 90)
+		(property "Value" "LEFT"
+			(at 85.09 121.9199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7401,7 +7401,7 @@
 		(fields_autoplaced yes)
 		(uuid "8c2af551-4c72-44d0-a996-c792f7fd09d3")
 		(property "Reference" "SW103"
-			(at 96.52 119.38 90)
+			(at 96.52 119.3799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7409,8 +7409,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LEFT"
-			(at 96.52 121.92 90)
+		(property "Value" "RIGHT"
+			(at 96.52 121.9199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7471,7 +7471,7 @@
 		(fields_autoplaced yes)
 		(uuid "9a273496-f966-4e28-a0c4-630569e1af4b")
 		(property "Reference" "SW104"
-			(at 106.68 119.38 90)
+			(at 106.68 119.3799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7479,8 +7479,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RIGHT"
-			(at 106.68 121.92 90)
+		(property "Value" "UP"
+			(at 106.68 121.9199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7607,7 +7607,7 @@
 		(fields_autoplaced yes)
 		(uuid "a08993f1-bf55-4fa0-ba08-cab32b617a68")
 		(property "Reference" "SW105"
-			(at 118.11 119.38 90)
+			(at 118.11 119.3799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7615,8 +7615,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "MODE"
-			(at 118.11 121.92 90)
+		(property "Value" "DOWN"
+			(at 118.11 121.9199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
